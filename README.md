@@ -1,3 +1,8 @@
+> [!NOTE]
+> **Authorized Use Only** — This is a security research project. Use only on systems you own or have explicit written authorization to access/monitor. Read [DISCLAIMER.md](./DISCLAIMER.md) and [LICENSE](./LICENSE) before use.
+
+---
+
 # Config-Lab: Quantum-Adaptive Crypto-Agility Framework
 
 This repository contains the `Config-Lab` framework, a reproducible synthetic simulator for studying post-quantum migration as a threat-parametric, support-constrained planning problem.
